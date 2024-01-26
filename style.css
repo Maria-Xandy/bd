@@ -1,9 +1,10 @@
 * {
   padding: 0;
-  margin: 0;
+  margin: auto;
   box-sizing: border-box;
 }
 body {
+	
   background-color: #8A2BE2;
 }
 .card {
